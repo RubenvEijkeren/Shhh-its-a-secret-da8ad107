@@ -1,0 +1,8 @@
+label {
+    display: block;	
+}
+input {
+	border-radius: 5px;
+	display: block;
+	width: 300px;
+}
